@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577910941280",
+    "project_id": "pizzayou-3c32c",
+    "storage_bucket": "pizzayou-3c32c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577910941280:android:6fe92e11f127d016ef0505",
+        "android_client_info": {
+          "package_name": "com.pizzayou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577910941280-mgpkh4deqg5dep3qvfvte73ir01om3qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoh5JjsJNk6zfAUkUdbUaB8yhA-ObMhjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577910941280-mgpkh4deqg5dep3qvfvte73ir01om3qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
